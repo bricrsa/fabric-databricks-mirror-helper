@@ -13,5 +13,5 @@ Refresh of mirrored item will update schema of existing tables.
 TODO: Create the ability to input specific lists of schemas and tables so that you can filter the incoming UC data, to create highly customised mirror items with a subset of a schema, in the abscence of tags.
 
 
-
+Acknowledgement: All the heavy lifting of the API work here done by [Aitor Murguzur](https://github.com/murggu)
 
